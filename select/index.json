@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "子供になろう",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-23T23:31:22.988149Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "子供になろう",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_子供になろう_My_Hair_is_Bad.txt"
+    }
+  ]
+}
